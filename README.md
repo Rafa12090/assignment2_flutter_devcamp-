@@ -1,16 +1,13 @@
-# assignment2_flutter_devcamp_london
+# Assignment 2 - Flutter Devcamp London
 
-A new Flutter project.
+Screenshots of the app:
 
-## Getting Started
+![Screenshot](/assets/images/s1.png)
 
-This project is a starting point for a Flutter application.
+![Screenshot](/assets/images/s2.png)
 
-A few resources to get you started if this is your first Flutter project:
+![Screenshot](/assets/images/s3.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Screenshot](/assets/images/s4.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot](/assets/images/s5.png)
